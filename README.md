@@ -1,10 +1,7 @@
 # so_long
 a small 2D game created with minilibx in C
 
-
-Requirement
-
-## Game
+## Game Requirement
 • The player’s goal is to collect every collectible present on the map, then escape
 chosing the shortest possible route.\
 • The W, A, S, and D keys must be used to move the main character.\
@@ -13,7 +10,7 @@ chosing the shortest possible route.\
 • At every move, the current number of movements must be displayed in the shell.\
 • You have to use a 2D view (top-down or profile).\
 
-## Game Preview
+## Game Preview (on MacOS Only)
 
 ![alt text](so_long.gif)
 
