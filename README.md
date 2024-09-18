@@ -8,7 +8,7 @@ chosing the shortest possible route.\
 • The player should be able to move in these 4 directions: up, down, left, right.\
 • The player should not be able to move into walls.\
 • At every move, the current number of movements must be displayed in the shell.\
-• You have to use a 2D view (top-down or profile).\
+• You have to use a 2D view (top-down or profile).
 
 ## Game Preview (on MacOS Only)
 
